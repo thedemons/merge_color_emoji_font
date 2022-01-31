@@ -26,7 +26,7 @@ This is a step-by-step tutorial to merge two fonts together while keeping the co
 
 ## STEP 4: Export the font
 - Click **File -> Export Font As**
-- Click **Customize** button in the bottom right of the box.
+- Click the **Customize** button in the bottom right of the box.
 - Scroll down and check the `OT+COLR: Windows (TT-only)` option.
 
     ![export](./export.png)
@@ -38,7 +38,7 @@ This is a step-by-step tutorial to merge two fonts together while keeping the co
     ![result](./result.png)
 
 ## Downloads:
-- Here are the Segoe UI fonts that I've merged, in case you need exactly these fonts, I'll leave them for you:
+- Here are the Segoe UI fonts that I've merged, in case you need exactly these fonts, I'll leave them here for you:
     - [Segoe UI Color Emoji](./seguiemj.ttf)
     - [Segoe UI Color Emoji Bold](./seguiemj_bold.ttf)
     - [Segoe UI Color Emoji Italic](./seguiemj_italic.ttf)

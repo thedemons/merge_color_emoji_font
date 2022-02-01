@@ -20,7 +20,7 @@ This is a step-by-step tutorial to merge two fonts together while keeping the co
 - Press `CTRL+A` `CTRL+C` to copy the characters.
 - Select the Base font tab, click anywhere on the characters table.
 - Press `CTRL+V` to paste the characters you've just copied from emoji.
-- A box will appear, select the `Append glyphs, keep existing glyphs unchanged`
+- A box will appear, select the `Append glyphs, keep existing glyphs unchanged` option.
 - After doing this, the color emojis should appear in the Base font.
 
     ![merge](./merge.png)
